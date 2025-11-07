@@ -1,0 +1,1 @@
+Carpeta para organización de trenes con archivos de texto y planos aprovechando la pagina "app.diagrams.net" fka "draw.io"
